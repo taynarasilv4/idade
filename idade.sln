@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "idade", "idade\idade.csproj", "{43FEEBAA-027B-4EBE-876D-F12DB4651000}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43FEEBAA-027B-4EBE-876D-F12DB4651000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43FEEBAA-027B-4EBE-876D-F12DB4651000}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43FEEBAA-027B-4EBE-876D-F12DB4651000}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43FEEBAA-027B-4EBE-876D-F12DB4651000}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21EC1A25-CE4F-43D3-8359-1E4DED2C95AC}
+	EndGlobalSection
+EndGlobal
